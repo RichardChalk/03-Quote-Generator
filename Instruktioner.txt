@@ -10,7 +10,7 @@ Denna app ska slumpa fram en ny quote när användaren klicka på en knapp.
 	a: Skapa en header med text
 	b: Skapa en main-content div
 	c: Skapa en div som innehåller quote
-	d: Skapa en div som innehåller personen som sa qouten
+	d: Skapa en div som innehåller personen som sa quoten
 	e: Skapa en knapp (som kommer att generera en ny quote)
 
 4: I CSS styla som du vill (börja med att centrera all innehåll - googla hur man gör)
