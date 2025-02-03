@@ -27,7 +27,7 @@ JAVASCRIPT
 
 6: Du behöver skapa en array som innehåller dina quotes (minst 10st). Googla hur man skapa en array.
 	Du kan hitta några qoutes på denna sida
-	https://blog.hubspot.com/sales/famous-quotes
+	https://www.goodreads.com/quotes
 
 7: Lägg till en listener på din knapp.
 	a. I din callback method slumpa fram en random siffra mellan 0 & max längd på din array storlek
